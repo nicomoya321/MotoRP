@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 
-const WHATSAPP_NUMBER = '549341782006' // reemplazar por el número real del negocio
+const WHATSAPP_NUMBER = '5493417828006' // reemplazar por el número real del negocio
 
 const CATEGORIES = [
   { id: 'todas', label: 'Todas' },
